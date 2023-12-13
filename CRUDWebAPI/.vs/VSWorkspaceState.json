@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CRUDWebAPI",
+    "\\CRUDWebAPI\\Controllers",
+    "\\CRUDWebAPI\\Migrations",
+    "\\CRUDWebAPI\\Models",
+    "\\CRUDWebAPI\\Models\\Mapping",
+    "\\CRUDWebAPI\\Models\\Validators",
+    "\\CRUDWebAPI\\Properties"
+  ],
+  "SelectedNode": "\\CRUDWebAPI\\Controllers\\EventController.cs",
+  "PreviewInSolutionExplorer": false
+}

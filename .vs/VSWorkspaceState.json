@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CRUDWebAPI",
+    "\\CRUDWebAPI\\CRUDWebAPI",
+    "\\CRUDWebAPI\\CRUDWebAPI\\Controllers",
+    "\\CRUDWebAPI\\CRUDWebAPI\\Migrations",
+    "\\CRUDWebAPI\\CRUDWebAPI\\Models"
+  ],
+  "SelectedNode": "\\CRUDWebAPI\\CRUDWebAPI\\Migrations\\EventContextModelSnapshot.cs",
+  "PreviewInSolutionExplorer": false
+}
